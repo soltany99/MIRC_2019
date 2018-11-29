@@ -4,8 +4,8 @@ MIRC Team for the 2018/2019 year
 Resources (feel free to add any):
 
 Learning how to code:
-    - https://www.hackerrank.com
-    - https://leetcode.com
+     - https://www.hackerrank.com
+     - https://leetcode.com
 
 News sources:
     - https://www.bloomberg.com/canada
