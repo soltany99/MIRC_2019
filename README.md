@@ -14,10 +14,8 @@ News sources:
         and search for the headline to read it without a paywall. Other
         sources include https://www.bloombergquint.com
       - Alternatively, just clear your cookies anytime you run out of 
-        free articles on the website, and the 10 article limit will reset
-        
-    - https://www.cnbc.com
-        
+        free articles on the website, and the 10 article limit will reset    
+    - https://www.cnbc.com     
     - Bloomberg terminals (DSB, Gould Trading Floor)
       - Function TOP<GO> to see the headlines offered on the website +
         some that are terminal-exclusive (good way to get experience 
