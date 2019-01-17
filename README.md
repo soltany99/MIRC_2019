@@ -22,6 +22,12 @@ News sources:
       - Function TOP<GO> to see the headlines offered on the website +
         some that are terminal-exclusive (good way to get experience 
         with the terminal!) 
+
+(Premium) Data Sources:
+   - csidata.com
+   - kibot.com
+   - tickdata.com
+   - crsp.com
         
 Resume-Boosters:
   - Bloomberg Market Concepts, function BMC<GO> to see more details
